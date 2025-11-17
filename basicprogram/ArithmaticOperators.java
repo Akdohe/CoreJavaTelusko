@@ -1,3 +1,4 @@
+package basicprogram;
 public class ArithmaticOperators{
     public static void main(String [] args){
     int x = 6 ;
